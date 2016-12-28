@@ -1,21 +1,21 @@
-Ejercicio Objetivo Squad 80%
+# Ejercicio Objetivo Squad 80%
 
 Ejercicio - 1
 
 Inicio: Calcular promedio de Squad
 
-Ingreso datos
+## Ingreso datos
+- puntosSquad
+- maxPuntos
+- porcentaje
 
-puntosSquad
-maxPuntos
-porcentaje
-Proceso
+## Proceso
+- Pedir puntosSquad
+- Pedir maxPuntos
+- Multiplicar 80% con maxPuntos y almacenar en porcentaje.
+- Si puntosSquad es mayor o igual que porcentaje
+    - Mostrar mensaje "Muy bien Squad!"
+- Si no
+    - "Pueden hacerlo mejor"
 
-Pedir puntosSquad
-Pedir maxPuntos
-Multiplicar 80% con maxPuntos y almacenar en porcentaje.
-Si puntosSquad es mayor o igual que porcentaje
-Mostrar mensaje "Muy bien Squad!"
-Si no
-"Pueden hacerlo mejor"
-Fin
+*Fin*
